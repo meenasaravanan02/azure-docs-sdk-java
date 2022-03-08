@@ -1,0 +1,1 @@
+com.microsoft.azure.management.monitor.v2019_11_01

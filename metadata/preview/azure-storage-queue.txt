@@ -1,0 +1,4 @@
+com.microsoft.azure.storage
+com.microsoft.azure.storage.queue
+com.microsoft.azure.storage.queue.implementation
+com.microsoft.azure.storage.queue.models
